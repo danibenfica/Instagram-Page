@@ -1,39 +1,71 @@
-<h1>Projeto da Dio de recriar a página do instagram!</h1>
+# Instagram-Page
 
-Recriação da página de login do Instagram com os conceitos aprendidos sobre Flexbox.
+## Descrição do Projeto
 
-Recriei a página de login do Instagram com base nas aulas aprendidas sobre Flexbox, personalizando ela ao meu gosto.
+Este projeto consiste em uma página HTML que representa a interface de login do Instagram. Ela possui uma imagem de um celular, o logotipo do Instagram, informações de login e opções de download do aplicativo.
 
-Aqui constam alguns links onde estão as referências originais que utilizei para criar este projeto:
+## Pré-requisitos
 
-Link das aulas [aqui.][https://web.dio.me/project/recriando-a-pagina-inicial-do-instagram/learning/9c6e1506-e7c3-473f-8083-6aa4c53d1f45?back=/track/spread-fullstack-developer&tab=undefined&moduleId=undefined]
+- Navegador da web para visualizar a página HTML.
 
-Link da imagem do celular [aqui.][https://toppng.com/free-image/mobile-app-development-user-marketing-iphone-iphone-instagram-transparent-background-PNG-free-PNG-Images_265670]
+## Instalação
 
-Link da logo do instagram na cor rosa [aqui.][https://www.pxpng.com/photo/8612/hd-pink-neon-instagram-logo-text-sign-png]
+1. Faça o download dos arquivos HTML e CSS do projeto.
+2. Coloque-os em uma pasta no seu computador.
+3. Abra o arquivo HTML no seu navegador da web.
 
-Link da logo do botão da app store [aqui.][https://www.kindpng.com/imgv/ihJoxJw_pink-2-app-store-button-full-size-apple/]
+## Uso
 
-Link da logo do botão da google play [aqui.][https://toppng.com/show_download/462251/get-it-on-google-play-vector/large] (ela está na cor rosa porque editei).
+Ao abrir a página HTML no navegador, você verá a interface de login do Instagram. Aqui estão algumas informações sobre os elementos presentes na página:
 
-Link do ícone rosa do instagram [aqui.][https://www.citypng.com/photo/8037/hd-light-pink-round-instagram-ig-logo-icon-png]
+- Imagem do Celular: Mostra uma imagem ilustrativa de um celular com a interface do Instagram.
+- Logotipo do Instagram: Exibe o logotipo oficial do Instagram.
+- Foto de Perfil: Mostra uma foto de perfil do usuário (imagem estática no exemplo).
+- "Continue como harunsb": É um link de login fictício que poderia redirecionar para uma página de perfil do usuário.
+- "Remover conta": É um link fictício para remover a conta do usuário (não funcional no exemplo).
+- "Não é danibenfica?": Um texto informativo que sugere a possibilidade de alternar contas ou criar uma nova conta.
+- "Alternar contas" e "Inscreva-se": São links fictícios para alternar entre contas ou criar uma nova conta (não funcionais no exemplo).
+- "Baixe o aplicativo": É um texto informativo que sugere baixar o aplicativo do Instagram.
+- Botões de Download: São links fictícios para baixar o aplicativo do Instagram na App Store (Apple) e Google Play (Android).
 
-E agora os links das imagens utilizadas dentro do celular:
+## Estrutura do Projeto
 
-[Primeira imagem][https://br.pinterest.com/pin/844493670386127/]
+A estrutura de arquivos do projeto é a seguinte:
 
-[Segunda imagem][https://br.pinterest.com/pin/14988611250677602/]
+```
+- index.html
+- style.css
+- img/
+  - celular.png
+  - instagram-logo.png
+  - perfil-instagram.jpg
+  - apple-button.png
+  - googleplay-button.png
+```
 
-[Terceira imagem][https://br.pinterest.com/pin/489414684512267638/]
+O arquivo `index.html` contém o código HTML da página e faz referência ao arquivo `style.css` para a estilização.
 
-[Quarta imagem][https://br.pinterest.com/pin/844493670981345/]
+A pasta `img/` contém todas as imagens utilizadas na página.
 
-[Quinta imagem][https://br.pinterest.com/pin/40532465386744825/]
+## Créditos
 
-[Sexta imagem][https://br.pinterest.com/pin/1049338781904677934/]
+[DIO - Link do Projeto Aqui](https://web.dio.me/lab/recriando-a-pagina-inicial-do-instagram/learning/9c6e1506-e7c3-473f-8083-6aa4c53d1f45)
 
-[Sétima imagem][https://br.pinterest.com/pin/701506079450885579/]
+[Link da imagem do celular](https://toppng.com/free-image/mobile-app-development-user-marketing-iphone-iphone-instagram-transparent-background-PNG-free-PNG-Images_265670)
 
-[Oitava imagem][https://br.pinterest.com/pin/12736811438040393/]
+[Link da logo do instagram na cor rosa](https://www.pxpng.com/photo/8612/hd-pink-neon-instagram-logo-text-sign-png)
 
-[Nona imagem][https://br.pinterest.com/pin/697987642240205010/]
+[Link da logo do botão da app store](https://www.kindpng.com/imgv/ihJoxJw_pink-2-app-store-button-full-size-apple/)
+
+[Link da logo do botão da google play](https://toppng.com/show_download/462251/get-it-on-google-play-vector/large) (ela está na cor rosa porque editei).
+
+[Link do ícone rosa do instagram](https://www.citypng.com/photo/8037/hd-light-pink-round-instagram-ig-logo-icon-png)
+
+- As imagens utilizadas neste projeto são apenas ilustrativas e foram obtidas em sites de imagens gratuitas.
+
+
+**P: Por que os links e botões não funcionam no exemplo?**
+R: Este projeto é apenas uma representação estática da interface do Instagram e não possui funcionalidades reais.
+
+
+Qualquer outra dúvida ou sugestão, é só entrar em contato comigo! :heart:

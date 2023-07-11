@@ -21,7 +21,7 @@ Ao abrir a página HTML no navegador, você verá a interface de login do Instag
 - Imagem do Celular: Mostra uma imagem ilustrativa de um celular com a interface do Instagram.
 - Logotipo do Instagram: Exibe o logotipo oficial do Instagram.
 - Foto de Perfil: Mostra uma foto de perfil do usuário (imagem estática no exemplo).
-- "Continue como harunsb": É um link de login fictício que poderia redirecionar para uma página de perfil do usuário.
+- "Continue como danibenfica": É um link de login fictício que poderia redirecionar para uma página de perfil do usuário.
 - "Remover conta": É um link fictício para remover a conta do usuário (não funcional no exemplo).
 - "Não é danibenfica?": Um texto informativo que sugere a possibilidade de alternar contas ou criar uma nova conta.
 - "Alternar contas" e "Inscreva-se": São links fictícios para alternar entre contas ou criar uma nova conta (não funcionais no exemplo).
